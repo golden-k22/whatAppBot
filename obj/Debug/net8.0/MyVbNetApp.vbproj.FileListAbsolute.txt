@@ -1,0 +1,17 @@
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.exe
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.deps.json
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.runtimeconfig.json
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.dll
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\MyVbNetApp.pdb
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.AssemblyInfoInputs.cache
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.AssemblyInfo.vb
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.vbproj.CoreCompileInputs.cache
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.dll
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\refint\MyVbNetApp.dll
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.pdb
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.genruntimeconfig.cache
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\ref\MyVbNetApp.dll
+D:\VB_WhatsApp\MyVbNetApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.vbproj.AssemblyReference.cache
+D:\VB_WhatsApp\MyVbNetApp\obj\Debug\net8.0\MyVbNetApp.vbproj.Up2Date
